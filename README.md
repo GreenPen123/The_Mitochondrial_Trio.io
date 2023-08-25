@@ -11,7 +11,7 @@ To run the Pokedex website locally, follow this steps: Open the link below.
 <h3> <br>/ Demo / <br> </h3>
 For life demo of our Pokedex website, visit https://github.com/GreenPen123/The_Mitochondrial_Trio.io/tree/main
 <h3> <br>/ Screenshot / <br> </h3>
-<img src="screenshot1.jpeg">
+<img src="pokedex.jpg">
 <h3> <br>/ ChatGPT Prompts and Responses / <br> </h3>
 we did not use any, purely by hand and mind adding with a little help from css
 <h3> <br>/ Inspiration / <br> </h3>
